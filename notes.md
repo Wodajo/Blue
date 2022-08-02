@@ -1,5 +1,7 @@
 SOC - security operation center - security monitoring people  
-SIEM - tool for data correlation  
+SIM - Security Information Management (software for data collecting)
+SEM - Security Event Management (soft that correlates data -> alerts)
+SIEM - tool for data collection (many nodes) & correlation  
 CISO - chief information security officer  
 Playbook - form of standarisation, categorisation and guidebook for cases  
 e.g. SOC 1 - malware! -> ticket -> hash check -> priority P3 -> comment -> SOC Tier 2  
@@ -32,4 +34,6 @@ pfSense - fw
 
 Active Directory - windows server i.a. assigning FQDN
 (Having admin AD you can get into any connected host)
+
+Even Viewer (Windows) is weak
 

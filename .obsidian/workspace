@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes.md",
+            "file": "Splunk tests.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
+                "file": "Splunk tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,10 @@
   },
   "active": "85baeca16dbe9b49",
   "lastOpenFiles": [
-    "pfSense tests.md",
-    "questions.md",
     "notes.md",
+    "questions.md",
+    "logs.md",
+    "pfSense tests.md",
     "EDR tests.md"
   ]
 }

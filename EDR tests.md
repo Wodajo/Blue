@@ -22,3 +22,5 @@ Uses hostnams - what if hostname changes?
 
 Static group - groups with not-variable stats like Windows, Linux, full disk encrypted
 Dynamic group - e.g. problematic, not activated sec. product -> can update automatically & can use rules (like "if sth new in problematic group - alert and run command x")
+
+One of the usefull stuff is making a policy to block phishing sites
